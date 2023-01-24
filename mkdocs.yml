@@ -1,7 +1,7 @@
 site_name: 'basic-react-app'
 
 nav:
-  Home: index.md
+  - Home: index.md
 
 plugins:
-  techdocs-core
+  - techdocs-core
