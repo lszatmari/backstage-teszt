@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "backstage-teszt"
-  backstage.io/techdocs-ref: dir:.
+  backstage.io/techdocs-ref: dir:/docs/index.md
   links:
     - url: https://localhost:3001
       title: Basic react app
