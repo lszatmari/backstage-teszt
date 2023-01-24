@@ -4,6 +4,7 @@ metadata:
   name: "backstage-teszt"
   annotations:
     backstage.io/techdocs-ref: dir:.
+    gocd.org/pipelines: backstage,backstage-pr,backstage-builder
   links:
     - url: https://localhost:3001
       title: Basic react app
