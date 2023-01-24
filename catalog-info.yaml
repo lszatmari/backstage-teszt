@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "backstage-teszt"
   links:
-    - url: https://google.com
+    - url: https://localhost:3001
       title: Google
       icon: dashboard
       type: admin-dashboard
